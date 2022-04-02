@@ -8,5 +8,11 @@ public class TC002 {
         // Writing smoke tests...
 
 
+        // creating a report
+
+        // screenshots in failure
+
+
+
     }
 }
